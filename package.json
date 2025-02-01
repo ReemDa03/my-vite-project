@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "private": true,
-  "homepage": "https://ReemDa03.github.io/my-vite-project/",
+  "homepage": "https://ReemDa03.github.io/my-vite-project",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
